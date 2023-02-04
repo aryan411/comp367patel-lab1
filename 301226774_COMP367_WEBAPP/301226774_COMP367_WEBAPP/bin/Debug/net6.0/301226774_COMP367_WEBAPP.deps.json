@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "301226774_COMP367_WEBAPP/1.0.0": {
+        "runtime": {
+          "301226774_COMP367_WEBAPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "301226774_COMP367_WEBAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
